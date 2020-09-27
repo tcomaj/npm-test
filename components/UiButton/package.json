@@ -1,6 +1,6 @@
 {
     "name": "@commmi/ui-button",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "scripts": {
         "prepublish": "uglifyjs -o UiButton.min.vue UiButton.vue"
     },

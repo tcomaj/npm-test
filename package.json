@@ -11,8 +11,6 @@
         "babel-loader": "^8.1.0",
         "babel-preset-vue": "^2.0.2",
         "lerna": "^3.22.1",
-        "react-is": "^16.13.1",
-        "uglify-js": "^3.11.0",
         "vue-loader": "^15.9.3",
         "vue-template-compiler": "^2.6.12"
     },
